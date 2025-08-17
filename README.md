@@ -53,4 +53,4 @@ _App en React + Firebase para calificar películas y compartir opiniones._
 ---
 
 💌 **Conéctemos**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/freddy-ayon-castillo) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/freddy-ayon-castillo) 

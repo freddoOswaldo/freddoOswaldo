@@ -11,12 +11,6 @@
 🚀 [**Movie Rating App**](https://github.com/tu-repo-movies)  
 _App en React + Firebase para calificar películas y compartir opiniones._  
 
-💰 [**Finance Tracker**](https://github.com/tu-repo-finance)  
-_Herramienta para gestionar gastos, ingresos y visualizar gráficos financieros._  
-
-🐾 [**Pet 3D AR Viewer**](https://github.com/tu-repo-pet3d)  
-_Proyecto experimental: convierte la foto de tu mascota en un modelo 3D interactivo con realidad aumentada._  
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas  

@@ -39,8 +39,8 @@ _App en React + Firebase para calificar películas y compartir opiniones._
 
 ## 📊 Mis estadísticas en GitHub  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=freddoOswaldo&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=freddoOswaldo&theme=tokyonight)  
 
 ---
 
@@ -53,5 +53,4 @@ _App en React + Firebase para calificar películas y compartir opiniones._
 ---
 
 💌 **Conéctemos**:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-linkedin)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel&logoColor=white)](https://tusitio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/freddy-ayon-castillo) 

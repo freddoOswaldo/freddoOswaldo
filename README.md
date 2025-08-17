@@ -23,11 +23,12 @@ _App en React + Firebase para calificar películas y compartir opiniones._
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)  
 ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white)  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
 
 **Infraestructura & DevOps**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)  
 
 **Control de versiones & Colaboración**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
@@ -47,7 +48,6 @@ _App en React + Firebase para calificar películas y compartir opiniones._
 
 - 🎯 Me gustan los retos de **algoritmos y clean code**.  
 - 🏋️‍♂️ Practico **CrossFit** para no pasar todo el día sentado.  
-- 🎬 Fan de **Marvel** (sí, voy al cine con mi familia cada estreno 💥).  
 - 🐱 Tengo una gata llamada **Yuki** 🐾.  
 
 ---

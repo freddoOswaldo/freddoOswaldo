@@ -8,8 +8,8 @@
 
 ## 🌟 Proyectos Destacados  
 
-🚀 [**Movie Rating App**](https://github.com/tu-repo-movies)  
-_App en React + Firebase para calificar películas y compartir opiniones._  
+🚀 [**Red Social**]([https://github.com/tu-repo-movies](https://github.com/freddoOswaldo/social-media-mern))  
+_App en React + Nodejs de las funcionas basicas de una red social
 
 ---
 

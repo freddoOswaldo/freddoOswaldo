@@ -8,7 +8,7 @@
 
 ## 🌟 Proyectos Destacados  
 
-🚀 [**Red Social**]([https://github.com/tu-repo-movies](https://github.com/freddoOswaldo/social-media-mern))  
+🚀 [**Red Social**]([https://github.com/tu-repo-movies](https://github.com/freddoOswaldo/social-media-mern) 
 _App en React + Nodejs de las funcionas basicas de una red social
 
 ---
